@@ -1,5 +1,7 @@
 ### The Nebula Developers GitHub Repository
 
+![The Nebula Devs](https://github.com/The-Nebula-Developers/.github/blob/main/profile/banner.png)
+
 Welcome to The Nebula Developers GitHub Repository! Here, we thrive on innovation, creativity, and technical expertise. Our team specializes in Website Design and Development, as well as Bot Development, offering cutting-edge solutions tailored to your unique needs. Below, you'll find essential information to get started with our repository and make the most out of our offerings.
 
 ## Table of Contents
