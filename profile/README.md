@@ -23,7 +23,7 @@ Our bot development services encompass chatbots, AI-powered bots, and automation
 
 ## Getting Started With Us: 
 
-As said Above We Do Website Development and Bot Development. To get a quote from us - Send us an Email or Contact Us via one of our socials. Tell us what you need in detail. If we can have a better understanding of what **You** need, we can give you want you need and not something you don't. Tell us what you need the service for and tell us what your going to do with it and what your expecting, this will help us as we won't need to waste your time asking uncessary questions.  
+As said Above We Do Website Development and Bot Development. To get a quote from us - Send us an Email or Contact Us via one of our socials. Tell us what you need in detail. If we can have a better understanding of what **You** need, we can give you what you need and not something you don't. Tell us what you need the service for and tell us what your going to do with it and what your expecting, this will help us as we won't need to waste your time asking uncessary questions.  
 
 ## Contact Us
 Here's A list of ways to contact us! 
